@@ -25,4 +25,20 @@ h1 {
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
 
+footer {
+    text-align: right;
+    background: #fff;
+}
+
+body {
+    background: #F3EBE9;
+    font-size: 100%;
+    font-family: 'Times New Roman', serif;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
 /* Write all remaining styles here */
