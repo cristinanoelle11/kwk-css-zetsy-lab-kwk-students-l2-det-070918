@@ -25,7 +25,7 @@ h1 {
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
 
-footer {
+{
     text-align: right;
     background: #fff;
 }
@@ -53,8 +53,8 @@ h2 {
     font-size: 2em;
 }
 
-
 .small {
     font-size: 0.8em;
 }
+
 /* Write all remaining styles here */
