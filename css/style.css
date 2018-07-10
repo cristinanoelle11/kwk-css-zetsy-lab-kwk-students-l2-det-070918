@@ -56,4 +56,7 @@ h2 {
     -webkit-margin-end: 0px;
     font-weight: bold;
 }
+.small {
+    font-size: 0.8em;
+}
 /* Write all remaining styles here */
