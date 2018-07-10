@@ -24,8 +24,6 @@ h1 {
     font-weight: normal;
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
-    color: rgb(152,173,166);
-    text-decoration: none;
 }
  footer {
     text-align: right;
@@ -68,5 +66,9 @@ header a {
 #press img {
     border: 5px #ccc solid;
     padding: 1px;
+}
+header a {
+    color: rgb(152,173,166);
+    text-decoration: none;
 }
 /* Write all remaining styles here */
