@@ -56,6 +56,9 @@ h2 {
 .small {
     font-size: 0.8em;
 }
-# img 
+# img{
+  border: 5px rgb(152,173,166) solid;
+}
+}
 
 /* Write all remaining styles here */
