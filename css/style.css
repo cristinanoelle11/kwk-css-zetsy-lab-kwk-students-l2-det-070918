@@ -65,5 +65,8 @@ header a {
     color: rgb(152,173,166);
     text-decoration: none;
 }
-
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
 /* Write all remaining styles here */
